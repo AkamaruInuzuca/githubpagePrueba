@@ -1,5 +1,5 @@
 {
-    "Short_name": "PagePrueba",
+    "Short_name": "Page",
     "name": "Prueba - Page",
     "icons": [
         {
@@ -12,6 +12,6 @@
     "display": "standalone",
     "background_color": "#F5F5F8",
     "theme_color":"#F5F5F8",
-    "orientation": "portraint",
+    "orientation": "portrait",
     "categories": ["Dashboard","admin"]
 }
